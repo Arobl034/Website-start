@@ -12,6 +12,6 @@
 <h2>Using:</h2>
 HTML, CSS3, Bootstrap
 
-<h2>Starter-template</h2>
-<a href="http://arobl034.github.io/website-start/">Visit</a>
+<h2>Website-Starter</h2>
+<a href=https://arobl034.github.io/Website-start/>Template</a>
 
